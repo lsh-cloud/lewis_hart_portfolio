@@ -7,3 +7,6 @@
 - Thesis Text Generator  
   Example of how to prepare a PDF to be trained on a computationally low cost LSTM model to generate text  
   https://github.com/lsh-cloud/Thesis-text-generator
+
+- AI Agent
+  An AI agent built using Azure OpenaAI API and Langgraph
