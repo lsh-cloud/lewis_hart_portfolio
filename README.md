@@ -7,7 +7,7 @@ Scientist with a background of data analysis and PhD in physics. Skilled in tran
   https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy
 
 - ## AI Agent  
-  An AI agent built using **Azure OpenaAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.  
+  An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.  
   https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
 
 - ## Thesis Text Generator  
