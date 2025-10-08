@@ -9,5 +9,5 @@
   https://github.com/lsh-cloud/Thesis-text-generator
 
 - AI Agent
-  An AI agent built using Azure OpenaAI API and Langgraph that can decide whether to answer a question using its own knowledge or from a user uploaded PDF. 
+  An AI agent built using Azure OpenaAI API and Langgraph that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.  
   https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
