@@ -8,8 +8,4 @@ Scientist with a background of data analysis and PhD in physics. Skilled in tran
 
 - ## AI Agent  
   An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.  
-  https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
-
-- ## Thesis Text Generator  
-  Example of how to prepare a PDF to be trained on a computationally low cost **LSTM** model to generate text. **TensorFlow** is used to create the model.  
-  https://github.com/lsh-cloud/Thesis-text-generator
+  https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main  
