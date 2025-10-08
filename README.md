@@ -1,7 +1,7 @@
 # Lewis Hart — Portfolio
 
 - ## Raman Spectroscopy Classification  
-  Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**  
+  Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.  
   https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy
 
 - ## AI Agent  
