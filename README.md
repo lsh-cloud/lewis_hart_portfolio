@@ -4,6 +4,7 @@ Scientist with a background of data analysis and PhD in physics. Skilled in tran
 
 ## Key Skills
 Some of the technologies I have used regularly:  
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
