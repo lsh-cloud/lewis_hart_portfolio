@@ -10,6 +10,10 @@ Scientist with a background of data analysis and PhD in physics. Skilled in tran
 
 ## Projects
 
+- ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks
+  Contributed to the development of open-source software the python package for analysis of angle-resolved photoemission and related spectroscopies.
+  https://github.com/phrgab/peaks
+
 - ### Raman Spectroscopy Classification  
   Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.  
   https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy
