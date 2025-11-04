@@ -23,6 +23,7 @@ Below are some examples of my work:
 - ### Raman Spectroscopy Classification  
   Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.  
   https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy
+  ![Raman Spectra](Images/Raman_Spectra.png)  
 
 - ### AI Agent  
   An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.  
