@@ -9,6 +9,7 @@ Scientist with a background of data analysis and PhD in physics. Skilled in tran
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Projects
+Below are some examples of my work:
 
 - ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks
   Contributed to the development of open-source software the python package for analysis of angle-resolved photoemission and related spectroscopies.  
