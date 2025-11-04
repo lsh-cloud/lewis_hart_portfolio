@@ -27,4 +27,5 @@ Below are some examples of my work:
 
 - ### AI Agent  
   An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.  
-  https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main  
+  https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
+  ![Agent](Images/langgraph_workflow.png)  
