@@ -25,7 +25,7 @@ Below are some examples of my work:
     </p>
   </div>
   <div>
-    <img src="Images/data_viewer.png" alt="Description" style="width:500px;"/> 
+    <img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
   </div>
 </div>
 
