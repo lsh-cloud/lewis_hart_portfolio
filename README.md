@@ -26,7 +26,7 @@ Below are some examples of my work:
 </p>
 
 
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
 <td style="border: none; padding-right: 0px;">
 Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
