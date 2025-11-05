@@ -25,6 +25,20 @@ Below are some examples of my work:
   https://github.com/phrgab/peaks  
 </p>
 
+
+<table>
+<tr>
+<td>
+Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.  
+<a href="https://github.com/phrgab/peaks">View the GitHub</a>
+</td>
+<td>
+Images/data_viewer.png
+</td>
+</tr>
+</table>
+
+
 - ### Raman Spectroscopy Classification  
   Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.  
   https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy
