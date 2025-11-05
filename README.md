@@ -29,10 +29,10 @@ Below are some examples of my work:
 <table>
 <tr>
 <td style="border: none; padding-right: 0px;">
-Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.  
-<a href="https://github.com/phrgab/peaks">
+Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
+ https://github.com/phrgab/peaks  
 </td>
-<td>
+<td style="border: none;">
 <img src="Images/data_viewer.png" alt="Description" style="width:500px;"/> 
 </td>
 </tr>
