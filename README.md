@@ -23,6 +23,7 @@ Below are some examples of my work:
 <p>
   Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
   https://github.com/phrgab/peaks  
+</p>
 
 - ### Raman Spectroscopy Classification  
   Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.  
