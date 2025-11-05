@@ -16,6 +16,11 @@ Some of the technologies I have used regularly:
 ## Projects
 Below are some examples of my work:
 
+- ### Raman Spectroscopy Classification  
+  Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.  
+  https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy
+  ![Raman Spectra](Images/Raman_Spectra.png)
+  
 - ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks   
 <p>
   Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
@@ -24,12 +29,6 @@ Below are some examples of my work:
 <p align="center">
   <img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
 </p>
-
-
-- ### Raman Spectroscopy Classification  
-  Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.  
-  https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy
-  ![Raman Spectra](Images/Raman_Spectra.png)  
 
 - ### AI Agent  
   An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.  
