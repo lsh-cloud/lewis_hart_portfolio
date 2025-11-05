@@ -33,7 +33,7 @@ Contributed to the development of open-source software that is a Python package 
 <a href="https://github.com/phrgab/peaks">
 </td>
 <td>
-<img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
+<img src="Images/data_viewer.png" alt="Description" style="width:500px;"/> 
 </td>
 </tr>
 </table>
