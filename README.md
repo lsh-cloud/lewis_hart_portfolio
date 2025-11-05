@@ -30,10 +30,10 @@ Below are some examples of my work:
 <tr>
 <td>
 Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.  
-<a href="https://github.com/phrgab/peaks">View the GitHub</a>
+<a href="https://github.com/phrgab/peaks">
 </td>
 <td>
-Images/data_viewer.png
+<img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
 </td>
 </tr>
 </table>
