@@ -28,7 +28,7 @@ Below are some examples of my work:
 
 <table>
 <tr>
-<td style="border: none; padding-right: 20px;">
+<td style="border: none; padding-right: 0px;">
 Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.  
 <a href="https://github.com/phrgab/peaks">
 </td>
