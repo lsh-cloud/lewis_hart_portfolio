@@ -17,26 +17,13 @@ Some of the technologies I have used regularly:
 Below are some examples of my work:
 
 - ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks   
-<p align="right">
-  <img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
-</p>
 <p>
   Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
   https://github.com/phrgab/peaks  
 </p>
-
-
-<table border="0">
-<tr>
-<td style="border: none; padding-right: 0px;">
-Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
- https://github.com/phrgab/peaks  
-</td>
-<td style="border: none;">
-<img src="Images/data_viewer.png" alt="Description" style="width:500px;"/> 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
+</p>
 
 
 - ### Raman Spectroscopy Classification  
