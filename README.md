@@ -20,12 +20,14 @@ Below are some examples of my work:
 
 - ### Raman Spectroscopy Classification  
   - Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.
-  https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy
+  - Code: https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy   
   ![Raman Spectra](Images/Raman_Spectra.png)
   
 - ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks   
   - Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
-  https://github.com/phrgab/peaks
+  - Code: https://github.com/phrgab/peaks
+  - Documentation: https://research.st-andrews.ac.uk/kinggroup/peaks
+  - Publication: https://doi.org/10.48550/arXiv.2508.04803
 
 <p align="center">
   <img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
