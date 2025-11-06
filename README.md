@@ -2,7 +2,9 @@
 
 ## Profile
    
-Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilizing the rapid advancements in machine learning.
+- Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilizing the rapid advancements in machine learning.
+- LinkedIn: www.linkedin.com/in/lewis-hart-phd
+- Google Scholar: https://scholar.google.co.uk/citations?user=_iBiShUAAAAJ&hl=en&oi=ao
 
 ## Key Skills
 Some of the technologies I have used regularly:  
