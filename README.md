@@ -1,4 +1,4 @@
-![header](Images/Header.png)  
+![header](Images/header.png)  
 
 ## Profile
    
