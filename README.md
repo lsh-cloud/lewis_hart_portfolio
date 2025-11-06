@@ -36,3 +36,14 @@ Below are some examples of my work:
   - There are safety mechanisms incorporated to protect against prompt injection and **Azure Content Safety API** is used to prevent discussions including self harm, violence, hate or of a sexual nature.   
   https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
   ![Agent](Images/langgraph_workflow.png)  
+
+## Certificates
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Azure Fundamentals
+- LinkedIn: Learning Google Cloud Developer and DevOps Tools
+- Coursera: DeepLearning.AI TensorFlow Developer Specialization
+- LinkedIn: Advanced SQL for Data Scientists
+- LinnkedIn: Deep Learning: Image Recognition
+- LinkedIn: Machine Learning with Scikit-Learn
+- LinkedIn: Programming Foundations: Version Control with Git
+- Google: TensorFlow Developer Certificate
