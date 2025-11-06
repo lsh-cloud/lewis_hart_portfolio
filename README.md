@@ -30,8 +30,8 @@ Below are some examples of my work:
   <img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
 </p>
 
-- ### Raman Spectroscopy Classification  
-  - Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**.
+- ### Raman Spectroscopy Classification
+  - Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**
   - Code: https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy   
   ![Raman Spectra](Images/Raman_Spectra.png)
 
