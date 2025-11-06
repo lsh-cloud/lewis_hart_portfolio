@@ -1,4 +1,4 @@
-# Lewis Hart, PhD - Portfolio
+![Agent](Images/slide1.png)  
 
 ## Profile
    
