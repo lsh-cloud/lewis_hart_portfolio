@@ -32,10 +32,7 @@ Below are some examples of my work:
   - Code: https://github.com/phrgab/peaks
   - Documentation: https://research.st-andrews.ac.uk/kinggroup/peaks
   - Publication: https://doi.org/10.48550/arXiv.2508.04803
-
-<p align="center">
-  <img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
-</p>
+ ![Raman Spectra](Images/peaks.png)
 
 - ### Raman Spectroscopy Classification
    - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to classify two layered crystals, ReS₂ and ReSe₂, based on their Raman spectra. These materials exhibit numerous non-degenerate vibrational modes, resulting in complex spectral patterns that make them ideal candidates for machine learning classification.
