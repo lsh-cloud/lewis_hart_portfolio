@@ -22,7 +22,7 @@ Below are some examples of my work:
   ![Raman Spectra](Images/Raman_Spectra.png)
   
 - ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks   
-  Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
+  - Contributed to the development of open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.   
   https://github.com/phrgab/peaks  
 <p align="center">
   <img src="Images/data_viewer.png" alt="Description" style="width:400px;"/> 
