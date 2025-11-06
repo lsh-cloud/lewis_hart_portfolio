@@ -8,7 +8,7 @@
 
 ## Key Achievements
 - Published **9 peer-reviewed papers** with **369 citations** (h-index: 7, i10-index: 6)  
-- Most cited paper: **132 citations**
+- Most cited first-author paper: **132 citations**
 - Organised a national conference on computaional and experimental materials science, attended by approximately **130** participants 
   
 ## Key Skills
