@@ -1,17 +1,12 @@
 # Lewis Hart, PhD - Portfolio
 
+## 📑 Table of Contents
+- #profile
+- #key-skills
+- #projects
+- #contact
 
- <details>
- <summary>📑 Table of Contents</summary>
-
- - #about-me
- - #key-skills
- - #projects
- - #contact
-
- </details>
-
-
+## Profile
 Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilizing the rapid advancements in machine learning.
 
 ## Key Skills
