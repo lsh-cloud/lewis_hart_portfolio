@@ -1,4 +1,4 @@
-# Lewis Hart, PhD - Portfolio
+#<center> Lewis Hart, PhD - Portfolio
 
 ## Profile
    
