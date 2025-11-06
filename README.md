@@ -32,7 +32,7 @@ Below are some examples of my work:
 
 - ### Raman Spectroscopy Classification
    - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to classify two layered crystals, ReS₂ and ReSe₂, based on their Raman spectra. These materials exhibit numerous non-degenerate vibrational modes, resulting in complex spectral patterns that make them ideal candidates for machine learning classification.
-  - Classification model using Conv1D to identify ReS₂ and ReSe₂ from Raman spectra using **TensorFlow** and **Keras**
+  - Built a **Conv1D** neural network using **TensorFlow** and **Keras** to process 1D spectral data, similar to how Conv2D is used for image classification.
   - Code: https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy   
   ![Raman Spectra](Images/Raman_Spectra.png)
 
