@@ -2,14 +2,14 @@
 
 ## Profile
    
-- Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilizing the rapid advancements in machine learning.
+- Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilising the rapid advancements in machine learning.
 - LinkedIn: www.linkedin.com/in/lewis-hart-phd
 - Google Scholar: https://scholar.google.co.uk/citations?user=_iBiShUAAAAJ&hl=en&oi=ao
 
 ## Key Achievements
 - Published **8 peer-reviewed papers** with **369 citations** (h-index: 7, i10-index: 6)  
 - Most cited first-author paper: **132 citations**
-- Organised a national conference on computaional and experimental materials science, attended by approximately **130** participants 
+- Organised a national conference on computational and experimental materials science, attended by approximately **130** participants 
   
 ## Key Skills
 Some of the technologies I have used regularly:  
@@ -54,7 +54,7 @@ Below are some examples of my work:
 - LinkedIn: Learning Google Cloud Developer and DevOps Tools
 - Coursera: DeepLearning.AI TensorFlow Developer Specialization
 - LinkedIn: Advanced SQL for Data Scientists
-- LinnkedIn: Deep Learning: Image Recognition
+- LinkedIn: Deep Learning: Image Recognition
 - LinkedIn: Machine Learning with Scikit-Learn
 - LinkedIn: Programming Foundations: Version Control with Git
 - Google: TensorFlow Developer Certificate
