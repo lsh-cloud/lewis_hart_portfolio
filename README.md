@@ -21,6 +21,7 @@ Some of the technologies I have used regularly:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Projects
 Below are some examples of my work:
@@ -49,7 +50,8 @@ Below are some examples of my work:
   ![Agent](Images/langgraph_workflow.png)
 
 - ### AdventureWorks SQL & Machine Learning Analysis
-   - This project demonstrates how to connect to and retrieve data from a relational database on **Microsoft Azure** using **SQL**. This data is subsequently analysed using **machine learning algorithms** and python visualisation techniques are used as a data storytelling tool.  
+   - This project demonstrates how to connect to and retrieve data from a relational database on **Microsoft Azure** using **SQL**. This data is subsequently analysed using **machine learning algorithms** and python visualisation techniques are used as a data storytelling tool.
+   - 
 
 ## Certificates
 - Microsoft Certified: Power BI Data Analyst Associate
