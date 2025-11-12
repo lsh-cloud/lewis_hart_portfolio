@@ -46,7 +46,10 @@ Below are some examples of my work:
   - An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.   
   - There are safety mechanisms incorporated to protect against prompt injection and **Azure Content Safety API** is used to prevent discussions including self harm, violence, hate or of a sexual nature.   
   https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
-  ![Agent](Images/langgraph_workflow.png)  
+  ![Agent](Images/langgraph_workflow.png)
+
+- ### AdventureWorks SQL & Machine Learning Analysis
+   - This project demonstrates how to connect to and retrieve data from a relational database on Microsoft Azure. This data is subsequently analysed using machine learning algorithms and python visualisation techniques are used as a data storytelling tool.  
 
 ## Certificates
 - Microsoft Certified: Power BI Data Analyst Associate
