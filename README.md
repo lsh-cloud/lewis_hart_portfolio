@@ -49,7 +49,7 @@ Below are some examples of my work:
   ![Agent](Images/langgraph_workflow.png)
 
 - ### AdventureWorks SQL & Machine Learning Analysis
-   - This project demonstrates how to connect to and retrieve data from a relational database on Microsoft Azure. This data is subsequently analysed using machine learning algorithms and python visualisation techniques are used as a data storytelling tool.  
+   - This project demonstrates how to connect to and retrieve data from a relational database on **Microsoft Azure** using **SQL**. This data is subsequently analysed using **machine learning algorithms** and python visualisation techniques are used as a data storytelling tool.  
 
 ## Certificates
 - Microsoft Certified: Power BI Data Analyst Associate
