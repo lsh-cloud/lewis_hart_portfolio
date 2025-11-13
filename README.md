@@ -8,18 +8,18 @@
 - [Projects](#projects)
 - [Certificates](#certificates)   
 
-## Profile<a id="profile"></a>
+## Profile <a id="profile"></a>
    
 - Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilising the rapid advancements in machine learning.
 - LinkedIn: www.linkedin.com/in/lewis-hart-phd
 - Google Scholar: https://scholar.google.co.uk/citations?user=_iBiShUAAAAJ&hl=en&oi=ao
 
-## Key Achievements<a id="key-achievements"></a>
+## Key Achievements <a id="key-achievements"></a>
 - Published **8 peer-reviewed papers** with **370 citations** (h-index: 7, i10-index: 6)  
 - Most cited first-author paper: **132 citations**
 - Organised a national conference on computational and experimental materials science, attended by approximately **130** participants 
   
-## Key Skills<a id="key-skills"></a>
+## Key Skills <a id="key-skills"></a>
 Some of the technologies I have used regularly:  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +31,7 @@ Some of the technologies I have used regularly:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Projects<a id="projects"></a>
+## Projects <a id="projects"></a>
 Below are some examples of my work:
   
 - ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks   
@@ -61,7 +61,7 @@ Below are some examples of my work:
    - This project demonstrates how to connect to and retrieve data from a relational database on the cloud platform, **Microsoft Azure**, using **SQL**. This data is subsequently analysed using **machine learning algorithms** and python visualisation techniques are used as a data storytelling tool.
    - Code: https://github.com/lsh-cloud/azure-sql-ml-demo  
 
-## Certificates<a id="certificates"></a>
+## Certificates <a id="certificates"></a>
 - Microsoft Certified: Power BI Data Analyst Associate
 - Microsoft Certified: Azure Fundamentals
 - LinkedIn: Learning Google Cloud Developer and DevOps Tools
