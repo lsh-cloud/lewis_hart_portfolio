@@ -1,5 +1,13 @@
 ![header](Images/header.png)  
 
+
+## Table of Contents
+- [Profile](#profile)
+- [Key Achievements](#key-achievements)
+- [Key Skills](#key-skills)
+- [Projects](#projects)
+- [Certificates](#certificates)   
+
 ## Profile
    
 - Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilising the rapid advancements in machine learning.
