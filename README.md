@@ -12,7 +12,7 @@
    
 - Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilising the rapid advancements in machine learning.
 - [LinkedIn](https://www.linkedin.com/in/lewis-hart-phd)
-- Google Scholar: https://scholar.google.co.uk/citations?user=_iBiShUAAAAJ&hl=en&oi=ao
+- [Google Scholar](https://scholar.google.co.uk/citations?user=_iBiShUAAAAJ&hl=en&oi=ao)
 
 ## Key Achievements <a id="key-achievements"></a>
 - Published **8 peer-reviewed papers** with **370 citations** (h-index: 7, i10-index: 6)  
