@@ -10,14 +10,14 @@
 
 ## Profile <a id="profile"></a>
    
-- Scientist with a background of data analysis and PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilising the rapid advancements in machine learning.
+- Scientist with a background in data analysis and a PhD in physics. Skilled in transforming complex data sets and communicating the results to audiences with varying technical expertise. Highly motivated to employ statistical algorithms whilst utilising the rapid advancements in machine learning.
 - LinkedIn: https://www.linkedin.com/in/lewis-hart-phd
 - Google Scholar: https://scholar.google.co.uk/citations?user=_iBiShUAAAAJ&hl=en&oi=ao
 
 ## Key Achievements <a id="key-achievements"></a>
-- Published **8 peer-reviewed papers** with **370 citations** (h-index: 7, i10-index: 6)  
+- Published **8 peer-reviewed papers** with **370 citations** (h-index: 7, i10-index: 6).  
 - Most cited first-author paper: **132 citations**
-- Organised a national conference on computational and experimental materials science, attended by approximately **130** participants 
+- Organised a national conference on computational and experimental materials science, attended by approximately **130** participants. 
   
 ## Key Skills <a id="key-skills"></a>
 Some of the technologies I have used regularly:  
@@ -37,14 +37,14 @@ Below are some examples of my work:
 - ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks   
   - Open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.
   - Photoemission spectroscopy is carried out at synchrotron facilities and university laboratories, but differences in data formats and experimental geometries can make analysis challenging. This software provides a unified pipeline that standardises data formatting across synchrotron sources, ensuring consistency and simplifying analysis.
-  - I contributed to the development of the original PyPhoto project, which was later restructured into Peaks. My role included helping design the concept, careful consideration of how to standardise pipeline, troubleshooting and bug fixes.
+  - I contributed to the development of the original PyPhoto project, which was later restructured into Peaks. My role included helping design the concept, careful consideration of how to standardise the pipeline, troubleshooting and bug fixes.
   - Code: https://github.com/phrgab/peaks
   - Documentation: https://research.st-andrews.ac.uk/kinggroup/peaks
   - Publication: https://doi.org/10.48550/arXiv.2508.04803
  ![Raman Spectra](Images/peaks.png)
 
 - ### Raman Spectroscopy Classification
-   - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to classify two layered crystals, ReS₂ and ReSe₂, based on their Raman spectra. These materials exhibit numerous non-degenerate vibrational modes, resulting in complex spectral patterns that make them ideal candidates for machine learning classification.
+   - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to classify two crystals, ReS₂ and ReSe₂, based on their Raman spectra. These materials exhibit numerous non-degenerate vibrational modes, resulting in complex spectral patterns that make them ideal candidates for machine learning classification.
   - Built a **Conv1D** neural network using **TensorFlow** and **Keras** to process 1D spectral data.  
   - Implemented custom data generators for efficient handling of Raman spectra.  
   - Applied hyperparameter tuning with Keras Tuner to optimise performance.  
@@ -52,13 +52,13 @@ Below are some examples of my work:
   ![Raman Spectra](Images/Raman_Spectra.png)
 
 - ### AI Agent  
-  - An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user uploaded PDF.   
+  - An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user-uploaded PDF.   
   - There are safety mechanisms incorporated to protect against prompt injection and **Azure Content Safety API** is used to prevent discussions including self harm, violence, hate or of a sexual nature.   
   https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
   ![Agent](Images/langgraph_workflow.png)
 
 - ### AdventureWorks SQL & Machine Learning Analysis
-   - This project demonstrates how to connect to and retrieve data from a relational database on the cloud platform, **Microsoft Azure**, using **SQL**. This data is subsequently analysed using **machine learning algorithms** and python visualisation techniques are used as a data storytelling tool.
+   - This project demonstrates how to connect to and retrieve data from a relational database on the cloud platform, **Microsoft Azure**, using **SQL**. This data is subsequently analysed using **machine learning algorithms** and Python visualisation techniques are used as a data storytelling tool.
    - Code: https://github.com/lsh-cloud/azure-sql-ml-demo  
 
 ## Certificates <a id="certificates"></a>
