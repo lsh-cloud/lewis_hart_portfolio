@@ -41,7 +41,7 @@ Below are some examples of my work:
   - Code: https://github.com/phrgab/peaks
   - Documentation: https://research.st-andrews.ac.uk/kinggroup/peaks
   - Publication: https://doi.org/10.48550/arXiv.2508.04803
- ![Raman Spectra](Images/Raman_spectra.png)
+ ![Raman Spectra](Images/peaks.png)
 
 - ### Raman Spectroscopy Classification
    - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to see if simulated one-dimensional Raman spectroscopy data can be classified using a neural network. 
