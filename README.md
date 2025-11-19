@@ -37,7 +37,7 @@ Below are some examples of my work:
 - ### Python Electron Spectroscopy Analysis by King Group St Andrews - peaks   
   - Open-source software that is a Python package for analysis of angle-resolved photoemission and related spectroscopies.
   - Photoemission spectroscopy is carried out at synchrotron facilities and university laboratories, but differences in data formats and experimental geometries can make analysis challenging. This software provides a unified pipeline that standardises data formatting across synchrotron sources, ensuring consistency and simplifying analysis.
-  - I contributed to the development of the original PyPhoto project, which was later restructured into Peaks. My role included helping design the concept, careful consideration of how to standardise the pipeline, troubleshooting and bug fixes.
+  - I contributed to the development of the original "PyPhoto" project, which was later restructured into "peaks". My role included helping design the concept, careful consideration of how to standardise the pipeline, troubleshooting and bug fixes.
   - Code: https://github.com/phrgab/peaks
   - Documentation: https://research.st-andrews.ac.uk/kinggroup/peaks
   - Publication: https://doi.org/10.48550/arXiv.2508.04803
