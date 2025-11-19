@@ -59,7 +59,8 @@ Below are some examples of my work:
   ![Agent](Images/langgraph_workflow.png)
 
 - ### AdventureWorks SQL & Machine Learning Analysis
-   - This project demonstrates how to connect to and retrieve data from a relational database on the cloud platform, **Microsoft Azure**, using **SQL**. This data is subsequently analysed using **machine learning algorithms** and Python visualisation techniques are used as a data storytelling tool.
+   - This project demonstrates how to connect to and retrieve data from a relational database on the cloud platform, **Microsoft Azure**, using **SQL**.
+   - This data is subsequently analysed using **machine learning algorithms** and Python visualisation techniques are used as a data storytelling tool.
    - Code: https://github.com/lsh-cloud/azure-sql-ml-demo  
 
 ## Certificates <a id="certificates"></a>
