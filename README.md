@@ -54,6 +54,7 @@ Below are some examples of my work:
 - ### AI Agent  
   - An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user-uploaded PDF.   
   - There are safety mechanisms incorporated to protect against prompt injection and **Azure Content Safety API** is used to prevent discussions including self harm, violence, hate or sexual content.
+  - **IBM Granite Guardian** can be used to check input for dangerous language with the help of **Hugging Face** libraries
   - **Docker Support**: Includes a **Dockerfile** for easy containerisation and deployment with **Flask**.  
   https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
   ![Agent](Images/langgraph_workflow.png)
