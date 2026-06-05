@@ -63,6 +63,7 @@ Below are some examples of my work:
    - End-to-end analysis of UK housing market trends using SQL and Python, combining ONS House Price Index and CPI data.
    - The analysis shows that inflation-adjusted house prices have remained relatively flat since 2012, while first-time buyers consistently operate in a lower-price segment (~79–88% of market prices).
    -  ![Agent](Images/figure_2_ftb_ratio.png)
+   -  Code: https://github.com/lsh-cloud/SQL_House_Prices
 
 
 - ### AdventureWorks SQL & Machine Learning Analysis
