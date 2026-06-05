@@ -59,6 +59,12 @@ Below are some examples of my work:
   https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
   ![Agent](Images/langgraph_workflow.png)
 
+- ### Exploring UK Housing Market Trends: A SQL-Based Analysis of First-Time Buyer Positioning
+- End-to-end analysis of UK housing market trends using SQL and Python, combining ONS House Price Index and CPI data.
+- The analysis shows that inflation-adjusted house prices have remained relatively flat since 2012, while first-time buyers consistently operate in a lower-price segment (~79–88% of market prices).
+-  ![Agent](Images/figure_2_ftb_ratio.png)
+
+
 - ### AdventureWorks SQL & Machine Learning Analysis
    - This project demonstrates how to connect to and retrieve data from a relational database on the cloud platform, **Microsoft Azure**, using **SQL**.
    - This data is subsequently analysed using **machine learning algorithms** and Python visualisation techniques are used as a data storytelling tool.
