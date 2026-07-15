@@ -61,9 +61,7 @@ Below are some examples of my work:
    - A project that uses **Power BI** to analyse customer churn, revenue at risk and customer retention stratagies using the IBM Telco database. 
    - Customers on month-to-month contracts have a high churn rate of **42%**, whereas customers on 2 month contracts have a low churn rate, **2.8%** therefore it is recommended that efforts are made to entice customers onto long-term contracts.
    -  Code: https://github.com/lsh-cloud/Customer-Retention-Intelligence
-     <p align="center">
-<img src="Images/summary_telco.png" alt="Customer Retention Dashboard"
-
+   ![SummaryTelco](Images/summary_telco.png)
 - ### Raman Spectroscopy Classification
    - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to see if simulated one-dimensional Raman spectroscopy data can be classified using a neural network. 
   - Built a **Conv1D** neural network using **TensorFlow** and **Keras** to process 1D spectral data.  
