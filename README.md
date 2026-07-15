@@ -43,14 +43,6 @@ Below are some examples of my work:
   - Publication: https://doi.org/10.48550/arXiv.2508.04803
  ![Raman Spectra](Images/peaks.png)
 
-- ### Raman Spectroscopy Classification
-   - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to see if simulated one-dimensional Raman spectroscopy data can be classified using a neural network. 
-  - Built a **Conv1D** neural network using **TensorFlow** and **Keras** to process 1D spectral data.  
-  - Implemented custom data generators for efficient handling of Raman spectra.  
-  - Applied hyperparameter tuning with Keras Tuner to optimise performance.  
-  - Code: https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy   
-  ![Raman Spectra](Images/Raman_Spectra.png)
-
 - ### AI Agent  
   - An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user-uploaded PDF.   
   - There are safety mechanisms incorporated to protect against prompt injection and **Azure Content Safety API** is used to prevent discussions including self harm, violence, hate or sexual content.
@@ -64,6 +56,14 @@ Below are some examples of my work:
    - The analysis shows that inflation-adjusted house prices have remained relatively flat since 2012, while first-time buyers consistently operate in a lower-price segment (~79–88% of market prices).
    -  Code: https://github.com/lsh-cloud/SQL_House_Prices
      ![Agent](Images/figure_2_ftb_ratio.png)
+
+- ### Raman Spectroscopy Classification
+   - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to see if simulated one-dimensional Raman spectroscopy data can be classified using a neural network. 
+  - Built a **Conv1D** neural network using **TensorFlow** and **Keras** to process 1D spectral data.  
+  - Implemented custom data generators for efficient handling of Raman spectra.  
+  - Applied hyperparameter tuning with Keras Tuner to optimise performance.  
+  - Code: https://github.com/lsh-cloud/Neural-network-Raman-spectroscopy   
+  ![Raman Spectra](Images/Raman_Spectra.png)
 
 - ### AdventureWorks SQL & Machine Learning Analysis
    - This project demonstrates how to connect to and retrieve data from a relational database on the cloud platform, **Microsoft Azure**, using **SQL**.
