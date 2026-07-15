@@ -60,7 +60,7 @@ Below are some examples of my work:
 - ### Customer Retention Analysis
    - A project that uses **Power BI** to analyse customer churn, revenue at risk and customer retention stratagies using the IBM Telco database. 
    - Customers on month-to-month contracts have a high churn rate of **42%**, whereas customers on 2 month contracts have a low churn rate, **2.8%** therefore it is recommended that efforts are made to entice customers onto long-term contracts.
-   -  Code: https://github.com/lsh-cloud/SQL_House_Prices
+   -  Code: https://github.com/lsh-cloud/Customer-Retention-Intelligence
      ![CustomerChurn](Images/summary_telco.png)
 
 - ### Raman Spectroscopy Classification
