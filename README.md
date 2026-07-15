@@ -43,6 +43,12 @@ Below are some examples of my work:
   - Publication: https://doi.org/10.48550/arXiv.2508.04803
  ![Raman Spectra](Images/peaks.png)
 
+- ### Exploring UK Housing Market Trends: An SQL-Based Analysis of First-Time Buyer Positioning
+   - Analysis of UK housing market trends using **SQL** and **Python**, combining ONS House Price Index and CPI data.
+   - The analysis shows that inflation-adjusted house prices have remained relatively flat since 2012, while first-time buyers consistently operate in a lower-price segment (~79–88% of market prices).
+   -  Code: https://github.com/lsh-cloud/SQL_House_Prices
+     ![Agent](Images/figure_2_ftb_ratio.png)
+
 - ### AI Agent  
   - An AI agent built using **Azure OpenAI API** and **LangGraph** that can decide whether to answer a question using its own knowledge or from a user-uploaded PDF.   
   - There are safety mechanisms incorporated to protect against prompt injection and **Azure Content Safety API** is used to prevent discussions including self harm, violence, hate or sexual content.
@@ -50,12 +56,6 @@ Below are some examples of my work:
   - **Docker Support**: Includes a **Dockerfile** for easy containerisation and deployment with **Flask**.  
   - Code: https://github.com/lsh-cloud/PDF-reading-QA-assistant/tree/main
   ![Agent](Images/langgraph_workflow.png)
-
-- ### Exploring UK Housing Market Trends: An SQL-Based Analysis of First-Time Buyer Positioning
-   - Analysis of UK housing market trends using **SQL** and **Python**, combining ONS House Price Index and CPI data.
-   - The analysis shows that inflation-adjusted house prices have remained relatively flat since 2012, while first-time buyers consistently operate in a lower-price segment (~79–88% of market prices).
-   -  Code: https://github.com/lsh-cloud/SQL_House_Prices
-     ![Agent](Images/figure_2_ftb_ratio.png)
 
 - ### Raman Spectroscopy Classification
    - This project demonstrates how deep learning can be applied to material identification using Raman spectroscopy data. The goal was to see if simulated one-dimensional Raman spectroscopy data can be classified using a neural network. 
