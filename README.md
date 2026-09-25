@@ -76,6 +76,11 @@ Below are some examples of my work:
    -  Code: https://github.com/lsh-cloud/Customer-Retention-Intelligence
    ![SummaryTelco](Images/summary_telco.png)
 
+- ### NHS Referral to Treatment (RTT) Performance Analysis
+   - Developed a **Power BI** report that explores the referral to treatment time using publicly available NHS data and analyses what providers and which specialities are meeting the NHS Constitutional Standard of starting treatment within 18 weeks from referral.  
+   - The data is modelled using a star schema in **Power Query** and DAX functions are created to calculate key performance indicators.  
+   -  Code: https://github.com/lsh-cloud/NHS-RTT-Performance-Analysis
+
 ## Certificates <a id="certificates"></a>
 - Microsoft Certified: Power BI Data Analyst Associate
 - Microsoft Certified: Azure Fundamentals
