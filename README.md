@@ -77,8 +77,8 @@ Below are some examples of my work:
    ![SummaryTelco](Images/summary_telco.png)
 
 - ### NHS Referral to Treatment (RTT) Performance Analysis
-   - Developed a **Power BI** report that explores the referral to treatment time using publicly available NHS data and analyses what providers and which specialities are meeting the NHS Constitutional Standard of 92% of patients starting treatment within 18 weeks from referral.  
-   - The data is modelled using a star schema in **Power Query** and DAX functions are created to calculate key performance indicators.  
+   - Developed a **Power BI** report that explores the referral to treatment time using publicly available NHS data and analyses what providers and which specialities are meeting the NHS Constitutional Standard of 92% of patients starting treatment within 18 weeks of referral.  
+   - Modelled the data using a star schema in **Power Query** and DAX measures are created to calculate key performance indicators.  
    -  Code: https://github.com/lsh-cloud/NHS-RTT-Performance-Analysis
 
 ## Certificates <a id="certificates"></a>
