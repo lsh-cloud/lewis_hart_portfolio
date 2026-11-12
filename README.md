@@ -15,8 +15,8 @@
 - Google Scholar: https://scholar.google.co.uk/citations?user=_iBiShUAAAAJ&hl=en&oi=ao
 
 ## Key Achievements <a id="key-achievements"></a>
-- Published **8 peer-reviewed papers** with more than **390 citations** (h-index: 7, i10-index: 7).  
-- Most cited first-author paper: **137 citations**
+- Published **8 peer-reviewed papers** with more than **400 citations** (h-index: 8, i10-index: 7).  
+- Most cited first-author paper: **139 citations**
 - Organised a national conference on computational and experimental materials science, attended by approximately **130** participants. 
   
 ## Key Skills <a id="key-skills"></a>
